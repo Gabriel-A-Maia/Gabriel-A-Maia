@@ -26,9 +26,6 @@ Atualmente iniciando aprendizado em:
 
 
 
-[![Gabriel Stats](https://github-readme-stats.vercel.app/api?username=Gabriel-A-Maia)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-A-Maia=)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
