@@ -1,16 +1,40 @@
 ## Hi there 👋
 
-<!--
-**Gabriel-A-Maia/Gabriel-A-Maia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou Gabriel Maia, sou um programador Front-End focado na criação de interfaces modernas, responsivas e bem estruturadas.  
+Experiência com: 
 
-Here are some ideas to get you started:
+•<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+•<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="logo-css">
+
+Atualmente iniciando aprendizado em:
+
+•<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="logo-JavaScript">
+
+📩Disponível para oportunidades profissionais e projetos freelance.
+<br/>
+<br/>
+<br/>
+
+💬Fale comigo:
+
+<a href="https://api.whatsapp.com/send?phone=5538999552297">
+<img  width="80px" height="80" alt="image" src="https://github.com/user-attachments/assets/05711fe0-8e93-4569-826d-4b7641985dab" alt="icone whatsapp" />
+</a>
+
+📫 Contato: gabrielmaia.programador@gmail.com
+
+
+
+[![Gabriel Stats](https://github-readme-stats.vercel.app/api?username=Gabriel-A-Maia)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-A-Maia=)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
+
+
+
